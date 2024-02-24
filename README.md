@@ -61,7 +61,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/rivaldo-adistama" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+    <a href="[https://www.linkedin.com/in/rivaldo-adistama](https://www.linkedin.com/in/rivaldo-adistama-866863171/)" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
      <a href="https://www.instagram.com/rvallldo/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
 </p>
 
