@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 , I'm Wisnu!
-Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. Create mobile(Android and iOS) automation using Cucumber Appium Java and Robot Framework. API Testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira and Azure DevOps..
+# Hi there 👋 , I'm Rivaldo!
+Experienced IT Quality Assurance with a history of freelancing on IT projects.
+
+An enthusiastic person in the field of IT Quality Assurance with detailed individual characteristics, well organized, and willing to learn to expand my knowledge.
 
 # Table of contents
 <!--ts-->
