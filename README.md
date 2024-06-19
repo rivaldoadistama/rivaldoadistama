@@ -18,29 +18,19 @@ Experienced IT Quality Assurance with a history of freelancing on IT projects.
 An enthusiastic person in the field of IT Quality Assurance with detailed individual characteristics, well organized, and willing to learn to expand my knowledge.
 
 # Table of contents
-<!--ts-->
-   * [Stats](#stats)
-   * [Tools](#tools)
-   * [Bincang QA](#%EF%B8%8Fbincang-qa)
-        * [SQA Journey Path](#sqa-journey-path)
-        * [Postman Tutorial](#postman)
-        * [Tips & Trick SQA](#tips--trick)
-   * [Connect](#connect)
-   * [Contact me](#contact-me)
-<!--te-->
- 
 
-## 📈Stats
+
+<!--## 📈Stats
 <p align="left">
 <a href="https://github.com/wisnuwm">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wisnuwm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wisnuwm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 ## 🔨Tools
-![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
-![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+<!--![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)-->
+<!--![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)-->
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
